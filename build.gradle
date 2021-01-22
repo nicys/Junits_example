@@ -11,7 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib"
     // https://mvnrepository.com/artifact/junit/junit
     testImplementation "junit:junit:4.13.1"
 }
