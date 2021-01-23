@@ -9,7 +9,7 @@ class MainKtTest {
         //Arrange
         val monthAmount = 0
         val amount = 10_000_000
-        val expectedResult = 74_000
+        val expectedResult = 75_000
         //Act
         val result = calcVisaMir(
                 monthAmount = monthAmount,
